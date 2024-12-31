@@ -1,0 +1,25 @@
+#mural {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.text3 {
+    width: 735px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.text3 h2 {
+    margin: 38px;
+}
+
+.text3 img {
+    margin-top: 50px;
+    margin-bottom: 25px;
+}

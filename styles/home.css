@@ -1,0 +1,27 @@
+.text1 {
+    width: 450px;
+    height: 359px;
+    padding: 20px;
+}
+
+.loja {
+    color: antiquewhite;
+}
+
+.assinatura {
+    margin-left: 300px;
+}
+
+.text2 {
+    width: 467px;
+    height: 565px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.determinacao {
+    color: red;
+}
